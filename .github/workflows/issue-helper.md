@@ -3,6 +3,18 @@ description: Respond to a workshop issue with a bounded triage comment.
 on:
   slash_command:
     name: issue-helper
+permissions:
+  contents: read
+  issues: read
+  pull-requests: read
+engine: copilot
+timeout-minutes: 10
+tools:
+  bash: false
+  cli-proxy: false
+  github:
+    toolsets: [repos, issues, pull_requests]
+    min-integrity: none
 safe-outputs:
   add-comment:
     max: 1
