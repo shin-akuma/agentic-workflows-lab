@@ -6,7 +6,7 @@ description: Fictional operational handbook used for agentic workflow exercises.
 
 ## Contact Support
 
-Standard support operates Monday to Friday, 09:00-17:00 UTC, excluding public holidays.
+Standard support operates Monday to Friday, 08:00-18:00 UTC, excluding public holidays.
 Outside those hours, only critical incidents receive an on-call response.
 
 ## Report an Incident
