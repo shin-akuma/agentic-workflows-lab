@@ -5,7 +5,32 @@
     "investigation_after": null
   },
   "issues": [],
-  "fixes": [],
+  "fixes": [
+    {
+      "issue": 1,
+      "pr": null,
+      "branch": "repo-assist/fix-issue-1-handbook-hours",
+      "status": "open",
+      "updated_at": "2026-10-20",
+      "note": "PR opened this run"
+    },
+    {
+      "issue": 2,
+      "pr": null,
+      "branch": "repo-assist/fix-issue-2-handbook-contact",
+      "status": "open",
+      "updated_at": "2026-10-20",
+      "note": "PR opened this run"
+    },
+    {
+      "issue": 4,
+      "pr": 5,
+      "branch": "repo-assist/fix-issue-4-opening-time-6ec88c05ded6b415",
+      "status": "open",
+      "updated_at": "2026-10-20",
+      "note": "test check passing"
+    }
+  ],
   "checks": [],
   "completed_actions": [],
   "priorities": []
