@@ -16,7 +16,7 @@ Do not include credentials or customer personal data.
 
 ## Escalate an Incident
 
-Escalate critical incidents to <support-manager@example.com>.
+Escalate critical incidents to <incident-lead@example.com>.
 
 ## Response Targets
 
