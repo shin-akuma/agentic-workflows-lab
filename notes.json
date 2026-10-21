@@ -8,7 +8,7 @@
   "fixes": [
     {
       "issue": 1,
-      "pr": null,
+      "pr": 7,
       "branch": "repo-assist/fix-issue-1-handbook-hours",
       "status": "open",
       "updated_at": "2026-10-20",
@@ -16,7 +16,7 @@
     },
     {
       "issue": 2,
-      "pr": null,
+      "pr": 6,
       "branch": "repo-assist/fix-issue-2-handbook-contact",
       "status": "open",
       "updated_at": "2026-10-20",
