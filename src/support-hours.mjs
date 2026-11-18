@@ -9,5 +9,5 @@ export function isSupportOpen(date, isPublicHoliday = false) {
   const closing = new Date(date);
   closing.setUTCHours(18, 0, 0, 0);
 
-  return date > opening && date < closing;
+  return date >= opening && date < closing;
 }
